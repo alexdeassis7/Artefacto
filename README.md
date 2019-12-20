@@ -1,3 +1,3 @@
 # Artefacto
 Artefacto Jenkins
-commit test SSH
+commit test 
